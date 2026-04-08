@@ -1,0 +1,90 @@
+[
+  {
+    "track_id": "SYN01",
+    "track_name": "Data Drift",
+    "artist": "The Engineers",
+    "danceability": 0.85,
+    "energy": 0.92,
+    "valence": 0.76,
+    "tempo": 125.5,
+    "popularity": 88,
+    "ingest_time": "2026-04-06T16:46:07.612019"
+  },
+  {
+    "track_id": "SYN02",
+    "track_name": "Cluster Node",
+    "artist": "DJ Kube",
+    "danceability": 0.65,
+    "energy": 0.81,
+    "valence": 0.45,
+    "tempo": 140.0,
+    "popularity": 72,
+    "ingest_time": "2026-04-06T16:46:07.612565"
+  },
+  {
+    "track_id": "SYN03",
+    "track_name": "DAG Dependency",
+    "artist": "Airflow Anthem",
+    "danceability": 0.45,
+    "energy": 0.55,
+    "valence": 0.3,
+    "tempo": 95.0,
+    "popularity": 65,
+    "ingest_time": "2026-04-06T16:46:07.612698"
+  },
+  {
+    "track_id": "SYN04",
+    "track_name": "Elastic Search",
+    "artist": "The Indices",
+    "danceability": 0.78,
+    "energy": 0.88,
+    "valence": 0.6,
+    "tempo": 130.0,
+    "popularity": 91,
+    "ingest_time": "2026-04-06T16:46:07.612707"
+  },
+  {
+    "track_id": "SYN05",
+    "track_name": "Kafka Stream",
+    "artist": "Realtime",
+    "danceability": 0.9,
+    "energy": 0.95,
+    "valence": 0.85,
+    "tempo": 150.0,
+    "popularity": 95,
+    "ingest_time": "2026-04-06T16:46:07.612712"
+  },
+  {
+    "track_id": "SYN06",
+    "track_name": "Pandas Frame",
+    "artist": "The Analysts",
+    "danceability": 0.5,
+    "energy": 0.4,
+    "valence": 0.2,
+    "tempo": 80.0,
+    "popularity": 55,
+    "ingest_time": "2026-04-06T16:46:07.612716"
+  },
+  {
+    "track_id": "SYN07",
+    "track_name": "Docker Swarm",
+    "artist": "Container Crew",
+    "danceability": 0.72,
+    "energy": 0.75,
+    "valence": 0.55,
+    "tempo": 115.0,
+    "popularity": 80,
+    "ingest_time": "2026-04-06T16:46:07.612721"
+  },
+  {
+    "track_id": "SYN08",
+    "track_name": "Null Exception",
+    "artist": "The Debuggers",
+    "danceability": 0.3,
+    "energy": 0.99,
+    "valence": 0.1,
+    "tempo": 180.0,
+    "popularity": 40,
+    "ingest_time": "2026-04-06T16:46:07.612727"
+  }
+]
